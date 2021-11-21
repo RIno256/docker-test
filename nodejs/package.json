@@ -1,0 +1,13 @@
+{
+  "name": "nodejs_app",
+  "version": "1.0.0",
+  "description": "TEST APP",
+  "author": "SERGEI KOMYSHAN <komyshan.sergei@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
